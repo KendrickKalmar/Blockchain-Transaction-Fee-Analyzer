@@ -183,15 +183,4 @@ The analysis reports include:
 - Check that the address format is correct
 - Some networks may require confirmed transactions only
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is provided as-is for educational and analysis purposes.
-
-## Disclaimer
-
-This tool is for analysis purposes only. Always verify transaction fees and network conditions before making transactions. The authors are not responsible for any financial decisions made based on this analysis.
 
